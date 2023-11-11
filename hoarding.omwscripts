@@ -1,0 +1,2 @@
+GLOBAL: hoarding/global.lua
+PLAYER: hoarding/player.lua
